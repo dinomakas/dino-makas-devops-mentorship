@@ -15,3 +15,8 @@
  <img src="https://skillicons.dev/icons?i=linkedin" /> </a>
 
 *Follow*
+
+
+
+>**Note**
+>I will use this repository for learning and I will post tasks that I have completed for homework, which are related to the learning path
