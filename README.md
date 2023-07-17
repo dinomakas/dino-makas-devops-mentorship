@@ -6,7 +6,7 @@
 
 ### Provided by AWS Community Bosnia
 
-<p align=right>
+<p align=left>
  
  <a href="https://twitter.com/awsbosnia" target="_blank">
  <img src="https://skillicons.dev/icons?i=twitter" /> </a>  
